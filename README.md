@@ -37,4 +37,4 @@ Hagaha waxaa ka mid ah qayb ku saabsan keenista app-ka iyo maareynta dejinta hee
 
 ---
 
-This version should be clearer and better formatted. Let me know if you need any further adjustments!
+hadaad macluumaad kale u baah hantahay waa ila socodsiin kartaa #fam
