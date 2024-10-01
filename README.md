@@ -8,7 +8,7 @@
 
 ---
 
-### README-gaani wuxuu sharxayaa mashruuc u eg "cityshoes" laakiin ku saleysan "city shoes", oo loo dhisay ujeedooyin waxbarasho. Mashruucan waxa uu leeyahay astaamo casri ah sida habka rukummada, ganacsi internetka, iyo soo gelinta warbaahinta. Waa tan faahfaahinta:
+### README-gaani wuxuu sharxayaa mashruuc u eg "cityshoes" laakiin ku saleysan "mashruuc ganacsi", oo loo dhisay ujeedooyin waxbarasho. Mashruucan waxa uu leeyahay astaamo casri ah sida habka rukummada, ganacsi internetka, iyo soo gelinta warbaahinta. Waa tan faahfaahinta:
 
 ### Astaamaha Ugu Muhiimsan:
 - **Farsamada La Isticmaalay**: Waxay isticmaashaa agabka horumarinta webka casriga ah sida **Next.js 14**, **TypeScript**, **Tailwind CSS**, **Prisma**, iyo **PostgreSQL** oo loogu talagalay backend-ka, iyo **Stripe** si loo maareeyo lacagaha.
