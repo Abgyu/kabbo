@@ -1,5 +1,10 @@
 ![logo](https://github.com/Abgyu/kabbo/blob/main/hdie.png)
 ![logo](https://github.com/Abgyu/kabbo/blob/main/welcomt.png)
+![logo](https://github.com/Abgyu/kabbo/blob/main/didi.png)
+![logo](https://github.com/Abgyu/kabbo/blob/main/welcow.png)
+![logo](https://github.com/Abgyu/kabbo/blob/main/wjdid.png)
+![logo](https://github.com/Abgyu/kabbo/blob/main/jadi.png)
+
 
 ---
 
