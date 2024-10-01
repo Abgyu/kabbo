@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Abgyu/Abgyu/blob/main/Blue%20Purple%20Modern%20Animated%20Computer%20Science%20Presentation%20(1).png)
 
 ---
 
