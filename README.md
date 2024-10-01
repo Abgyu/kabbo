@@ -1,5 +1,5 @@
 ![logo](https://github.com/Abgyu/kabbo/blob/main/hdie.png)
-![logo](https://github.com/Abgyu/kabbo/blob/main/hdie.png)
+![logo](https://github.com/Abgyu/kabbo/blob/main/welcomt.png)
 
 ---
 
